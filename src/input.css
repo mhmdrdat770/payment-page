@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+    html {
+        font-family: IRANSansX;
+    }
+    body {
+        background-color: #e9e6e8;
+    }
+}
+.text-2xs{
+    font-size: 0.5rem;
+}
